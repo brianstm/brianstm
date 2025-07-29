@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Brians Tjipto, currently studying in National University of Singapore<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Electrical Engineering in National University of Singapore<br>- 📖 Earned a Diploma in Computer Engineering from Singapore Polytechnic<br>- 🕸️ Proficient in Web Development framework like React.<br>- 🚔 Adept in ROS (Robot Operating System)<br>- ⚡ In my free time, I like to play games and learn!</p>
+<p align="left">I'm Brians Tjipto, currently studying in National University of Singapore<br><br>- 🔭 I’m working as Low Voltage Engineer<br>- 📚 I'm currently learning Electrical Engineering in National University of Singapore<br>- 📖 Earned a Diploma in Computer Engineering from Singapore Polytechnic<br>- 🕸️ Proficient in Web Development framework like React.<br>- 🚔 Adept in ROS (Robot Operating System)<br>- ⚡ In my free time, I like to play games and learn!</p>
 
 ###
 
